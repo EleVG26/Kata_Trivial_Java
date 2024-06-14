@@ -1,0 +1,24 @@
+¿Qué tema es el preferido por Fernando?
+Marvel
+El señor de los Anillos
+Matrix
+Star Wars
+4
+¿En qué año se fundó Keep Coding?
+2010
+2014
+2016
+2018
+2
+¿Cuál es el enfoque principal de Keep Coding?
+Desarrollo de software
+Diseño gráfico
+Redes sociales
+Robótica
+1
+¿Cuál es el enfoque educativo de Keep Coding?
+Cursos teóricos largos y conferencias
+Educación autodidacta sin apoyo
+Formación en habilidades blandas exclusivamente
+Proyectos prácticos y aprendizaje basado en la experiencia
+3

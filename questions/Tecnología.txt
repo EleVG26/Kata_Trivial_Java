@@ -1,0 +1,54 @@
+¿Cuál es el lenguaje de programación más utilizado para el desarrollo de aplicaciones móviles en Android?
+Swift
+JavaScript
+Python
+Kotlin
+4
+¿Cuál es el sistema operativo más usado en servidores web?
+Windows
+macOS
+Linux
+ChromeOS
+3
+¿Quién es conocido como el creador de la World Wide Web?
+Bill Gates
+Steve Jobs
+Tim Berners-Lee
+Elon Musk
+3
+¿Qué empresa desarrolló el sistema operativo Windows?
+Microsoft
+Apple
+IBM
+Google
+1
+¿Cuál de las siguientes tecnologías es utilizada principalmente para la minería de criptomonedas?
+CPU
+GPU
+SSD
+RAM
+2
+¿Cuál de las siguientes afirmaciones es verdadera?
+Ninguna de las anteriores es verdadera
+Todas las anteriores son falsas
+Todas las anteriores son verdaderas
+Ninguna de las anteriores es falsa
+2
+¿Cuál es una de las principales diferencias entre Java y Python en términos de ejecución?
+Python es interpretado, mientras que Java es compilado
+Java es interpretado, mientras que Python es compilado
+Ambos son compilados
+Ambos son interpretados
+2
+¿Qué característica de Java permite la portabilidad del código a diferentes plataformas?
+Java Development Kit (JDK)
+Java Runtime Environment (JRE)
+Java Compiler
+Java Virtual Machine (JVM)
+4
+¿Qué significa "SaaS" en el contexto de la computación en la nube?
+Storage as a Service
+Security as a Service
+Software as a Service
+System as a Service
+3
