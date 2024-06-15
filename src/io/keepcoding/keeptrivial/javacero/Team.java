@@ -5,15 +5,18 @@ import java.util.Set;
 
 public class Team 
 {
+	//Atributos privados
     private String name;
     private Set<String> quesitos;
 
     public Team(String name) 
     {
+    	//Constructor
         this.name = name;
         this.quesitos = new HashSet<>();
     }
 
+    //Método getter
     public String getName() 
     {
         return name;
@@ -29,6 +32,7 @@ public class Team
         quesitos.add(quesito);
     }
 
+    //Método para operar sobre los atributos
     public boolean hasAllQuesitos() 
     {
         return quesitos.size() == 5; 

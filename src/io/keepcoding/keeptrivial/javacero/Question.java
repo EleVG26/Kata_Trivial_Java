@@ -2,11 +2,13 @@ package io.keepcoding.keeptrivial.javacero;
 
 public class Question 
 {
+	//Atributos privados
     private String category;
     private String question;
     private String[] answers;
     private int correctAnswer;
 
+    //Constructor
     public Question(String category, String question, String[] answers, int correctAnswer) 
     {
         this.category = category;
@@ -15,6 +17,7 @@ public class Question
         this.correctAnswer = correctAnswer;
     }
 
+    //M´étodo getter
     public String getCategory() 
     {
         return category;
@@ -35,6 +38,7 @@ public class Question
         return correctAnswer;
     }
 
+    //método que opera sobre los atributos
     public boolean isCorrect(int answer) 
     {
         return answer == correctAnswer;
