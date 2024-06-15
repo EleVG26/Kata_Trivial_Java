@@ -3,5 +3,5 @@
 /.settings/
 /bin/
 /target/
-
+.DS_Store
 
